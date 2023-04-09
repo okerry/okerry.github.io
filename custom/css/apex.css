@@ -1,0 +1,69 @@
+header{
+  /*Header styling*/
+  height:80px;
+  background-color: #07CB87;
+  color:white;
+  font-size: 40px;
+  padding: 15px;
+}
+nav{
+  /*Nav styling*/
+  border-bottom: 5px;
+  border-color: #071bcb;
+  border-bottom-style:solid;
+}
+
+footer{
+  color: white;
+  background-color: #4207cb;
+}
+
+/*Site links styling*/
+a:link{
+  text-decoration: none;
+  color: white;
+}
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+a:active {
+  text-decoration: none;
+  color: white;
+}
+/*Product image styling*/
+.product-card{
+  height:350px;
+  width:420px;
+}
+
+.about-main-image{
+  /*About us page main image*/
+  height: 250px;
+  width:430px;
+}
+
+.product-card-row{
+  /*Product image card padding*/
+  padding-bottom:15px;
+}
+
+
+
+.page-alert{
+  /*dismissible product page alert styling*/
+  margin-top:10px;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.page-content
+{
+  /*Page content padding*/
+  padding:15px;
+
+}
